@@ -1,0 +1,1 @@
+My Wallet periodic release, refer to (https://github.com/arclud/my-wallet/releases) for changelog. If you find any issues, please report them in our GitHub repository.

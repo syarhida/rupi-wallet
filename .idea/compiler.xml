@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="IvyWallet.app" target="21" />
+      <module name="IvyWallet.buildSrc" target="21" />
+      <module name="IvyWallet.buildSrc.main" target="21" />
+      <module name="IvyWallet.buildSrc.test" target="21" />
+      <module name="IvyWallet.screen.accounts" target="21" />
+      <module name="IvyWallet.screen.attributions" target="21" />
+      <module name="IvyWallet.screen.balance" target="21" />
+      <module name="IvyWallet.screen.budgets" target="21" />
+      <module name="IvyWallet.screen.categories" target="21" />
+      <module name="IvyWallet.screen.contributors" target="21" />
+      <module name="IvyWallet.screen.disclaimer" target="21" />
+      <module name="IvyWallet.screen.edit-transaction" target="21" />
+      <module name="IvyWallet.screen.exchange-rates" target="21" />
+      <module name="IvyWallet.screen.features" target="21" />
+      <module name="IvyWallet.screen.home" target="21" />
+      <module name="IvyWallet.screen.import-data" target="21" />
+      <module name="IvyWallet.screen.loans" target="21" />
+      <module name="IvyWallet.screen.main" target="21" />
+      <module name="IvyWallet.screen.onboarding" target="21" />
+      <module name="IvyWallet.screen.piechart" target="21" />
+      <module name="IvyWallet.screen.planned-payments" target="21" />
+      <module name="IvyWallet.screen.releases" target="21" />
+      <module name="IvyWallet.screen.reports" target="21" />
+      <module name="IvyWallet.screen.search" target="21" />
+      <module name="IvyWallet.screen.settings" target="21" />
+      <module name="IvyWallet.screen.transactions" target="21" />
+      <module name="IvyWallet.shared.base" target="21" />
+      <module name="IvyWallet.shared.data.core" target="21" />
+      <module name="IvyWallet.shared.data.core-testing" target="21" />
+      <module name="IvyWallet.shared.data.model" target="21" />
+      <module name="IvyWallet.shared.data.model-testing" target="21" />
+      <module name="IvyWallet.shared.domain" target="21" />
+      <module name="IvyWallet.shared.ui.core" target="21" />
+      <module name="IvyWallet.shared.ui.navigation" target="21" />
+      <module name="IvyWallet.shared.ui.testing" target="21" />
+      <module name="IvyWallet.temp.legacy-code" target="21" />
+      <module name="IvyWallet.temp.old-design" target="21" />
+      <module name="IvyWallet.widget.add-transaction" target="21" />
+      <module name="IvyWallet.widget.balance" target="21" />
+      <module name="IvyWallet.widget.shared-base" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

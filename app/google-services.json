@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "450161397721",
+    "project_id": "mywallet-dd7b9",
+    "storage_bucket": "mywallet-dd7b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450161397721:android:d81016879a81c5cee2d3c8",
+        "android_client_info": {
+          "package_name": "kg.ivy.wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPWWH9IH8tgy4lG2puF7BtBjOqyAKnVeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450161397721:android:a1d3b2cca2b5b2f2e2d3c8",
+        "android_client_info": {
+          "package_name": "kg.ivy.wallet.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPWWH9IH8tgy4lG2puF7BtBjOqyAKnVeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
