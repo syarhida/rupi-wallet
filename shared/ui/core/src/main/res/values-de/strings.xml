@@ -386,12 +386,12 @@
     <string name="expenses_piechart_description">Du kannst deine Ausgabenstruktur nach Kategorien sehen! Probiere es aus: Tippe auf die graue/schwarze Schaltfläche Ausgaben direkt unter deiner Bilanz.</string>
     <string name="expenses_piechart">Ausgaben Kreisdiagramm</string>
     <string name="review_ivy_wallet">Rupi Wallet bewerten</string>
-    <string name="review_ivy_wallet_description">Gib uns dein Feedback! Hilf Rupi Wallet, besser zu werden und zu wachsen, indem du uns eine Bewertung schreibst. Komplimente, Ideen und Kritik sind willkommen! Wir tun unser Bestes.\n\nDanke,\nIvy Team</string>
+    <string name="review_ivy_wallet_description">Gib uns dein Feedback! Hilf Rupi Wallet, besser zu werden und zu wachsen, indem du uns eine Bewertung schreibst. Komplimente, Ideen und Kritik sind willkommen! Wir tun unser Bestes.\n\nDanke,\nRupi Team</string>
     <string name="help_us_grow">Hilf uns zu wachsen, damit wir mehr in die Entwicklung investieren und die App für dich besser machen können. Wenn du Rupi Wallet teilst, machst du zwei Entwickler glücklich und hilfst einem*r Freund*in, seine*ihre Finanzen in den Griff zu bekommen.</string>
     <string name="share_with_friends">Mit Freund*innen teilen</string>
     <string name="make_a_report_description">Du kannst Berichte erstellen, um tiefe Einblicke in deine Einnahmen und Ausgaben zu erhalten. Filtere deine Transaktionen nach Art, Zeitraum, Kategorie, Konten, Betrag, Schlüsselwörtern und mehr, um einen besseren Überblick über deine Finanzen zu erhalten.</string>
     <string name="make_a_report">Einen Bericht erstellen</string>
-    <string name="make_ivy_wallet_better_description">Willst du Rupi Wallet besser machen? Schreib uns eine Bewertung. Das ist der einzige Weg für uns, das zu entwickeln, was du willst und brauchst. Außerdem hilft es uns, im PlayStore besser zu ranken, so dass wir mehr Geld für das Produkt als für Marketing ausgeben können.\n\nWir tun unser Bestes.\nIvy Team</string>
+    <string name="make_ivy_wallet_better_description">Willst du Rupi Wallet besser machen? Schreib uns eine Bewertung. Das ist der einzige Weg für uns, das zu entwickeln, was du willst und brauchst. Außerdem hilft es uns, im PlayStore besser zu ranken, so dass wir mehr Geld für das Produkt als für Marketing ausgeben können.\n\nWir tun unser Bestes.\nRupi Team</string>
     <string name="we_need_your_help">Wir brauchen deine Hilfe!</string>
     <string name="we_need_your_help_description">Wir sind nur ein Designer und ein Entwickler, die nach ihren 9–5 Jobs an der App arbeiten. Derzeit investieren wir eine Menge Zeit und Geld, um nur Verluste und Erschöpfung zu erzeugen. Wenn du möchtest, dass wir Rupi Wallet weiter entwickeln, dann teile es bitte mit Freund*innen und Familie.\n\nP.S. Google PlayStore Bewertungen helfen auch sehr!</string>
     <string name="ivy_wallet_is_opensource">Rupi Wallet ist Open-Source!</string>

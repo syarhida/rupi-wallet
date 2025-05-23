@@ -385,12 +385,12 @@
     <string name="expenses_piechart_description">You can see your expenses structure by categories! Try it, tap the gray/black Expenses button just below your balance.</string>
     <string name="expenses_piechart">Expenses PieChart</string>
     <string name="review_ivy_wallet">Review Rupi Wallet</string>
-    <string name="review_ivy_wallet_description">Give us your feedback! Help Rupi Wallet become better and grow by writing us a review. Compliments, ideas, and critics are all welcome! We do our best.\n\nCheers,\nIvy Team</string>
+    <string name="review_ivy_wallet_description">Give us your feedback! Help Rupi Wallet become better and grow by writing us a review. Compliments, ideas, and critics are all welcome! We do our best.\n\nCheers,\nRupi Team</string>
     <string name="help_us_grow">Help us grow so we can invest more in development and make the app better for you. By sharing Rupi Wallet you\'ll make two developers happy and also help a friend to take control of their finances.</string>
     <string name="share_with_friends">Share with friends</string>
     <string name="make_a_report_description">You can generate reports to get deep insights about your income and spending. Filter your transactions by type, time period, category, accounts, amount, keywords and more to gain better view on your finances.</string>
     <string name="make_a_report">Make a report</string>
-    <string name="make_ivy_wallet_better_description">Want to make Rupi Wallet better? Write us a review. That\'s the only way for us to develop what you want and need. Also it help us rank higher in the PlayStore so we can spend money on the product rather than marketing.\n\nWe do our best.\nIvy Team</string>
+    <string name="make_ivy_wallet_better_description">Want to make Rupi Wallet better? Write us a review. That\'s the only way for us to develop what you want and need. Also it help us rank higher in the PlayStore so we can spend money on the product rather than marketing.\n\nWe do our best.\nRupi Team</string>
     <string name="we_need_your_help">We need your help!</string>
     <string name="we_need_your_help_description">We\'re just a designer and a developer working on the app after our 9–5 jobs. Currently, we invest a lot of time and money to generate only losses and exhaustion. If you want us to keep developing Rupi Wallet please share it with friends and family.\n\nP.S. Google PlayStore reviews also helps a lot!</string>
     <string name="ivy_wallet_is_opensource">Rupi Wallet is open-source!</string>
