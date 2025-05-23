@@ -57,7 +57,7 @@
     <string name="online_csv_converter_free">Бесплатный онлайн CSV конвертер</string>
     <string name="check_email_spam">Проверить папки \"Промоакции\" и \"Спам\" в вашей электронной почте</string>
     <string name="download_email_file">Скачать файл \"transactions_export…\", прикрепленный к письму</string>
-    <string name="download_email_file_description">Если у вас более одной валюты, вам придётся загрузить каждый файл \"transactions_export…\" и импортировать его в Ivy</string>
+    <string name="download_email_file_description">Если у вас более одной валюты, вам придётся загрузить каждый файл \"transactions_export…\" и импортировать его в Rupi</string>
     <string name="import_from">Загрузить из</string>
     <string name="please_wait">Пожалуйста, подождите</string>
     <string name="importing_the_csv_file">Загружаем CSV файл</string>
@@ -104,7 +104,7 @@
     <string name="dark_mode">Тёмная\nтема</string>
     <string name="auto_mode">Системная\nтема</string>
     <string name="planned_payments">Запланированные платежи</string>
-    <string name="share_ivy">Поделись Ivy</string>
+    <string name="share_ivy">Поделись Rupi</string>
     <string name="reports">Отчёты</string>
     <string name="loans">Кредиты</string>
     <string name="set_currency">Установите валюту</string>

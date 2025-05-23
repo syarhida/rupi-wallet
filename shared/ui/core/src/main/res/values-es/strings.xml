@@ -104,7 +104,7 @@
     <string name="dark_mode">Modo oscuro</string>
     <string name="auto_mode">Modo automático</string>
     <string name="planned_payments">Pagos\nPlanificados</string>
-    <string name="share_ivy">Comparte Ivy</string>
+    <string name="share_ivy">Comparte Rupi</string>
     <string name="reports">Reportes</string>
     <string name="loans">Préstamos</string>
     <string name="set_currency">Establecer moneda</string>
@@ -167,7 +167,7 @@
     <string name="google_signing_in_success">¡Éxito!</string>
     <string name="login_with_google">Iniciar sesión con Google</string>
     <string name="offline_account">cuenta sin conexión</string>
-    <string name="sync_data_ivy_cloud">SINCRONIZA TUS DATOS EN LA NUBE DE IVY</string>
+    <string name="sync_data_ivy_cloud">SINCRONIZA TUS DATOS EN LA NUBE DE Rupi</string>
     <string name="data_integrity_protection_warning">¡La integridad y la protección de los datos no están garantizadas!</string>
     <string name="or_enter_with_offline_account">O ENTRAR CON UNA CUENTA OFFLINE</string>
     <string name="offline_warning">Sus datos se guardarán localmente (solo en su teléfono) y no se sincronizarán con la nube. Corre el riesgo de perderlo si desinstala la aplicación o cambia su dispositivo. Siempre puedes activar la sincronización más tarde si decides.</string>
@@ -393,7 +393,7 @@
     <string name="expenses_piechart_description">¡Puedes ver tu estructura de gastos por categorías! Pruébelo, toque el botón Gastos gris/negro justo debajo de su saldo.</string>
     <string name="expenses_piechart">Gráfico circular de gastos</string>
     <string name="review_ivy_wallet">Danos tu opinión de Rupi Wallet</string>
-    <string name="review_ivy_wallet_description">¡Danos tu opinión! Ayude a Rupi Wallet a mejorar y crecer escribiéndonos una reseña. ¡Los elogios, las ideas y las críticas son bienvenidos! Hacemos nuestro mejor esfuerzo.\n\nSaludos,\nEquipo Ivy</string>
+    <string name="review_ivy_wallet_description">¡Danos tu opinión! Ayude a Rupi Wallet a mejorar y crecer escribiéndonos una reseña. ¡Los elogios, las ideas y las críticas son bienvenidos! Hacemos nuestro mejor esfuerzo.\n\nSaludos,\nEquipo Rupi</string>
     <string name="help_us_grow">Ayúdanos a crecer para que podamos invertir más en desarrollo y mejorar la aplicación para ti. Al compartir Rupi Wallet, hará felices a dos desarrolladores y también ayudará a un amigo a tomar el control de sus finanzas.</string>
     <string name="share_with_friends">Compartir con amigos</string>
     <string name="make_a_report_description">Puede generar informes para obtener información detallada sobre sus ingresos y gastos. Filtre sus transacciones por tipo, período de tiempo, categoría, cuentas, cantidad, palabras clave y más para obtener una mejor visión de sus finanzas.</string>

@@ -104,7 +104,7 @@
     <string name="dark_mode">Chế độ tối</string>
     <string name="auto_mode">Chế độ tự động</string>
     <string name="planned_payments">Thanh toán\ntheo kế hoạch</string>
-    <string name="share_ivy">Chia sẻ Ivy</string>
+    <string name="share_ivy">Chia sẻ Rupi</string>
     <string name="reports">Báo cáo</string>
     <string name="loans">Vay nợ</string>
     <string name="set_currency">Chọn loại tiền tệ</string>
@@ -260,7 +260,7 @@
     <string name="exporting_data">Đang xuất dữ liệu</string>
     <string name="exporting_data_description">Vui lòng đợi, đang xuất dữ liệu</string>
     <string name="start_date_of_month">Ngày bắt đầu của tháng</string>
-    <string name="ivy_telegram">Nhóm Telegram của Ivy</string>
+    <string name="ivy_telegram">Nhóm Telegram của Rupi</string>
     <string name="help_center">Trung tâm hỗ trợ</string>
     <string name="roadmap">Lộ trình</string>
     <string name="request_a_feature">Yêu cầu một tính năng</string>
@@ -473,7 +473,7 @@
     <string name="contributions_number">%1$s đóng góp</string>
     <string name="you_can_see_a_piechart">Bạn có thể xem Biểu đồ tròn cho các chi phí của mình! Nhấp vào thẻ Chi phí ở đầu trang của bảng điều khiển.</string>
     <string name="it_looks_like_that_you_are_enjoying">Có vẻ như bạn đang thích Rupi Wallet! Vui lòng tham gia Cộng đồng Ivy Telegram của chúng tôi và làm cho ứng dụng của chúng tôi tốt hơn :)</string>
-    <string name="ivy_community">Cộng đồng Ivy</string>
+    <string name="ivy_community">Cộng đồng Rupi</string>
     <string name="join_now">Tham gia ngay</string>
     <string name="it_looks_like_that_you_are_enjoying_telegram">Có vẻ như bạn đang yêu thích Ivy Wallet! Nếu bạn chưa tham gia, hãy tham gia Cộng đồng Ivy trên Telegram thông qua lời mời và giúp ứng dụng của chúng tôi trở nên tốt hơn :)</string>
     <string name="please_type_category_name">Vui lòng nhập \"%1$s\" để xóa danh mục của bạn.</string>

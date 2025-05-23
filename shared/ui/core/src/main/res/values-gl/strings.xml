@@ -106,7 +106,7 @@
     <string name="amoled_mode">Modo AMOLED escuro</string>
     <string name="auto_mode">Modo automático</string>
     <string name="planned_payments">Pagos\nplanificados</string>
-    <string name="share_ivy">Compartir Ivy</string>
+    <string name="share_ivy">Compartir Rupi</string>
     <string name="reports">Informes</string>
     <string name="loans">Préstamos</string>
     <string name="set_currency">Establecer divisa</string>
@@ -170,7 +170,7 @@
     <string name="google_signing_in_success">Éxito!</string>
     <string name="login_with_google">Iniciar sesión con Google</string>
     <string name="offline_account">Conta sen conexión</string>
-    <string name="sync_data_ivy_cloud">SINCRONIZA OS TEUS DATOS NA NUBE DE IVY</string>
+    <string name="sync_data_ivy_cloud">SINCRONIZA OS TEUS DATOS NA NUBE DE Rupi</string>
     <string name="data_integrity_protection_warning">A integridade e a protección dos datos non están garantidas!</string>
     <string name="or_enter_with_offline_account">OU ENTRA CUNHA CONTA SEN CONEXIÓN</string>
     <string name="offline_warning">Os teus datos gardaranse só localmente e non se sincronizarán coa nube. Desinstalar a aplicación ou cambiar de dispositivo pode provocar a perda de datos. Podes activar a sincronización máis tarde se o necesitas.</string>
@@ -263,7 +263,7 @@
     <string name="exporting_data">Exportando datos</string>
     <string name="exporting_data_description">Por favor, agarda, exportando datos</string>
     <string name="start_date_of_month">Data de inicio do mes</string>
-    <string name="ivy_telegram">Grupo de Telegram de Ivy</string>
+    <string name="ivy_telegram">Grupo de Telegram de Rupi</string>
     <string name="help_center">Centro de axuda</string>
     <string name="roadmap">Folla de ruta</string>
     <string name="report_bug">Informar dun erro</string>
@@ -391,12 +391,12 @@
     <string name="expenses_piechart_description">Podes ver a túa estrutura de gastos por categorías. Próbao tocando o botón gris/negro de Gastos xusto debaixo do teu saldo.</string>
     <string name="expenses_piechart">Gráfico de sectores de gastos</string>
     <string name="review_ivy_wallet">Deixa unha valoración</string>
-    <string name="review_ivy_wallet_description">Dános a túa opinión! Axuda a mellorar Rupi Wallet deixando unha valoración. Aceptamos eloxios, ideas e críticas! A túa achega é inestimable nos nosos esforzos continuos por mellorar a aplicación.\n\nSaúdos,\nO equipo de Ivy</string>
+    <string name="review_ivy_wallet_description">Dános a túa opinión! Axuda a mellorar Rupi Wallet deixando unha valoración. Aceptamos eloxios, ideas e críticas! A túa achega é inestimable nos nosos esforzos continuos por mellorar a aplicación.\n\nSaúdos,\nO equipo de Rupi</string>
     <string name="help_us_grow">Axúdanos a medrar para que poidamos investir máis no desenvolvemento e mellorar a aplicación para ti. Ao compartir Rupi Wallet farás felices a tódolos contribuíntes e tamén axudarás a un amigo a tomar o control das súas finanzas.</string>
     <string name="share_with_friends">Compartir con amigos</string>
     <string name="make_a_report_description">Podes xerar informes para obter unha visión profunda dos teus ingresos e gastos. Filtra as túas transaccións por tipo, período de tempo, categoría, contas, importe, palabras chave e máis para xestionar mellor as túas finanzas.</string>
     <string name="make_a_report">Fai un informe</string>
-    <string name="make_ivy_wallet_better_description">Gustaríache mellorar Rupi Wallet? Escríbenos unha valoración. É a única forma en que podemos implementar o que necesitas. Tamén nos axuda a situarnos máis alto na Play Store para que poidamos gastar cartos no produto en lugar de en marketing.\n\nFacemos o mellor que podemos.\nO equipo de Ivy</string>
+    <string name="make_ivy_wallet_better_description">Gustaríache mellorar Rupi Wallet? Escríbenos unha valoración. É a única forma en que podemos implementar o que necesitas. Tamén nos axuda a situarnos máis alto na Play Store para que poidamos gastar cartos no produto en lugar de en marketing.\n\nFacemos o mellor que podemos.\nO equipo de Rupi</string>
     <string name="we_need_your_help">Precisamos a túa axuda!</string>
     <string name="we_need_your_help_description">Precisamos o teu apoio para seguir mellorando a aplicación. Comparte Rupi Wallet cos teus amigos e familiares, e considera deixar unha valoración na Google Play Store. As túas achegas axudaranos a continuar coa nosa misión.</string>
     <string name="ivy_wallet_is_opensource">Rupi Wallet é de código aberto!</string>
@@ -477,7 +477,7 @@
     <string name="contributions_number">%1$s contribucións</string>
     <string name="you_can_see_a_piechart">Ver un gráfico de sectores dos teus ingresos e gastos tocando a tarxeta correspondente máis arriba!</string>
     <string name="it_looks_like_that_you_are_enjoying">Parece que estás gozando de Rupi Wallet! Únete á nosa comunidade privada de Telegram e mellora a nosa aplicación :)</string>
-    <string name="ivy_community">Comunidade Ivy</string>
+    <string name="ivy_community">Comunidade Rupi</string>
     <string name="join_now">Únete agora</string>
     <string name="it_looks_like_that_you_are_enjoying_telegram">Parece que estás gozando de Rupi Wallet! Se aínda non o fixeches, únete á nosa comunidade privada de Telegram e mellora a nosa aplicación :)</string>
     <string name="please_type_category_name">Por favor, escribe \"%1$s\" para eliminar a túa categoría.</string>
