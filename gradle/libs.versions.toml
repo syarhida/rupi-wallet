@@ -26,7 +26,7 @@ jvm-target = "17"
 detekt = "1.23.6" # https://detekt.dev/docs/gettingstarted/gradle/
 
 [libraries]
-android-gradle-plugin = { module = "com.android.tools.build:gradle", version = "8.5.2" }
+android-gradle-plugin = { module = "com.android.tools.build:gradle", version = "8.9.2" }
 
 # Kotlin
 kotlin-gradle-plugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
