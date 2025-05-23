@@ -86,7 +86,7 @@ class AttributionsProvider @Inject constructor() {
         ),
         AttributionItem.Attribution(
             name = "Github Actions",
-            link = "https://github.com/Arclud/my-wallet/actions"
+            link = "https://github.com/syarhida/rupi-wallet/actions"
         ),
         AttributionItem.Attribution(
             name = "Timber",

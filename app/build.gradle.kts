@@ -70,7 +70,7 @@ android {
             signingConfig = signingConfigs.getByName("debug")
 
             applicationIdSuffix = ".debug"
-            resValue("string", "app_name", "Rupi Wallet Debug")
+            resValue("string", "app_name", "Rupi Wallet")
         }
 
         create("demo") {

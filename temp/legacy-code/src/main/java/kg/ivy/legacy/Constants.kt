@@ -8,7 +8,7 @@ object Constants {
 
     const val URL_IVY_WALLET_REPO = "https://github.com/syarhida/rupi-wallet"
 
-    const val URL_GITHUB_NEW_ISSUE = "https://github.com/Arclud/my-wallet/issues/new/choose"
+    const val URL_GITHUB_NEW_ISSUE = "https://github.com/syarhida/rupi-wallet/issues/new/choose"
 
     const val URL_HELP_CENTER = "https://t.me/2393151507/11"
 
@@ -20,7 +20,7 @@ object Constants {
     const val CATEGORY_UNSPECIFIED_NAME = "Unspecified"
 
     const val URL_IVY_CONTRIBUTORS =
-        "https://github.com/arclud/my-wallet#contributors-wall"
+        "https://github.com/syarhida/rupi-wallet#contributors-wall"
 
     const val URL_GITHUB_SPONSORS =
         "https://github.com/sponsors/Ivy-Apps"
