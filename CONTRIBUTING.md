@@ -1,4 +1,4 @@
-# Contributing to My Wallet
+# Contributing to Rupi Wallet
 
 >[!IMPORTANT]
 >**🚨 Notice: Project No Longer Maintained 🚨**
@@ -18,14 +18,14 @@
 
 
 ## 1. Fork the repo
-Fork of the official My Wallet repo by clicking on the badge: [![Fork My Wallet](https://img.shields.io/github/forks/syarhida/rupi-wallet?logo=github&style=social)](https://github.com/syarhida/rupi-wallet/fork).
+Fork of the official Rupi Wallet repo by clicking on the badge: [![Fork Rupi Wallet](https://img.shields.io/github/forks/syarhida/rupi-wallet?logo=github&style=social)](https://github.com/syarhida/rupi-wallet/fork).
 
 **[Forking - GitHub tutorial](https://docs.github.com/en/get-started/quickstart/fork-a-repo)**
 
 
 ## 2. Pick an issue
 ### Workflow:
-1. Browse **[My Wallet Issues](https://github.com/syarhida/rupi-wallet/issues)**.
+1. Browse **[Rupi Wallet Issues](https://github.com/syarhida/rupi-wallet/issues)**.
 2. Choose an issue that you understand and like.
 > Didn't find anything fitting? Try **[creating a new issue](https://github.com/syarhida/rupi-wallet/issues/new/choose)**.
 3. ⚠️ Comment **exactly** **`I'm on it`** on that issue for GitHub Actions to automatically assign it to you.
@@ -69,14 +69,14 @@ git checkout -b fix-issue-{YOUR_ISSUE_NUMBER}
 So far, you should have pushed your work to your feature branch and have tested
 that it works on a real Android device.
 The final step is to [open a pull request](https://github.com/syarhida/rupi-wallet/pulls) to the `main` branch of the
-official My Wallet repo.
+official Rupi Wallet repo.
 
 **[Submitting a PR - GitHub tutorial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**
 
 ### IMPORTANT:
 - Make sure the base repository is set to `syarhida/rupi-wallet` and its base is set to `main`.
 - Pull requests to other branches will be rejected.
-- My Wallet doesn't have QA, so **you are the QA!** Please test your implementation carefully.
+- Rupi Wallet doesn't have QA, so **you are the QA!** Please test your implementation carefully.
 
 ### Questions?
 Ask them in [our private Telegram community](https://t.me/+ETavgioAvWg4NThk).

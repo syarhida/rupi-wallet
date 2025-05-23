@@ -1,1 +1,1 @@
-My Wallet periodic release, refer to (https://github.com/syarhida/rupi-wallet/releases) for changelog. If you find any issues, please report them in our GitHub repository.
+Rupi Wallet periodic release, refer to (https://github.com/syarhida/rupi-wallet/releases) for changelog. If you find any issues, please report them in our GitHub repository.
