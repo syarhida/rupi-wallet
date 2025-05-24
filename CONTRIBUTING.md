@@ -1,84 +1,97 @@
-# Contributing to Rupi Wallet
+# Ikutan Kontribusi ke Rupi Wallet\!
 
->[!IMPORTANT]
->**🚨 Notice: Project No Longer Maintained 🚨**
+> [\!IMPORTANT]
+> **🚨 PENTING NIH: Proyek Ini Sudah Nggak Di-maintain Lagi Ya 🙁 🚨**
 >
->As of **Nov 5th, 2024**, this project is no longer maintained by the original developers. No further updates, bug fixes, or support will be provided.
+> Sejak tanggal **5 November 2024**, proyek ini sudah nggak diurus lagi sama tim pengembang awalnya. Jadi, nggak akan ada update, perbaikan bug, atau bantuan apa pun lagi dari kami.
 >
->- **Pull Requests and Issues**: We will not be reviewing or merging pull requests, nor responding to issues or discussions.
+>   - **Pull Request (PR) dan Isu**: PR-mu nggak akan kami review atau merge lagi, dan kami juga nggak akan balas isu atau diskusi ya.
 >
->- **Forking and Future Development**: In accordance with the [GPL-3.0 License](LICENSE), you are encouraged to **fork this repository** to continue development independently. You are free to modify, distribute, and release your own versions under the same license.
+>   - **Mau Lanjutin Proyek Ini? Boleh Banget\!**: Sesuai [Lisensi GPL-3.0](https://www.google.com/search?q=LICENSE), kamu bebas banget buat **fork repositori ini** kalau mau lanjutin pengembangannya sendiri. Kamu boleh ubah, sebarin, dan rilis versimu sendiri dengan lisensi yang sama.
 >
->- **Disclaimer of Liability**:
->  - **"As-Is" Basis**: This software is provided on an "as-is" basis without any warranties or conditions of any kind, either express or implied.
->  - **No Liability**: The original maintainers shall not be liable for any claims, damages, or other liabilities arising from the use, modification, or distribution of this software.
->  - **User Responsibility**: Users and developers who choose to use or fork this project assume all risks and responsibilities associated with its use and further development.
+>   - **Beberapa Hal yang Perlu Kamu Tahu (Sangkalan Tanggung Jawab)**:
 >
->For more information, please refer to the [LICENSE](LICENSE) file.
+>   - **Disediakan 'Apa Adanya'**: Software ini kami kasih apa adanya, tanpa janji atau jaminan apa pun, baik yang jelas-jelas dibilang maupun yang tersirat.
+>
+>   - **Kami Nggak Bertanggung Jawab Ya**: Tim awal nggak akan nanggung risiko, kerusakan, atau masalah apa pun yang muncul kalau kamu pakai, ubah, atau sebarin software ini.
+>
+>   - **Risiko Tanggung Sendiri**: Kalau kamu pakai atau fork proyek ini, semua risiko dan tanggung jawabnya ada di kamu ya.
+>
+> Info lengkap soal lisensi, bisa kamu cek di berkas [LICENSE](https://www.google.com/search?q=LICENSE).
 
+## 1\. Langkah 1: Fork Dulu Reponya Yuk\!
 
-## 1. Fork the repo
-Fork of the official Rupi Wallet repo by clicking on the badge: [![Fork Rupi Wallet](https://img.shields.io/github/forks/syarhida/rupi-wallet?logo=github&style=social)](https://github.com/syarhida/rupi-wallet/fork).
+Fork repositori resmi Rupi Wallet dengan klik tombol ini: [](https://github.com/syarhida/rupi-wallet/fork).
 
-**[Forking - GitHub tutorial](https://docs.github.com/en/get-started/quickstart/fork-a-repo)**
+**[Forking - Tutorial GitHub Lengkapnya di Sini](https://docs.github.com/en/get-started/quickstart/fork-a-repo)**
 
+## 2\. Langkah 2: Pilih Isu yang Mau Kamu Kerjain
 
-## 2. Pick an issue
-### Workflow:
-1. Browse **[Rupi Wallet Issues](https://github.com/syarhida/rupi-wallet/issues)**.
-2. Choose an issue that you understand and like.
-> Didn't find anything fitting? Try **[creating a new issue](https://github.com/syarhida/rupi-wallet/issues/new/choose)**.
-3. ⚠️ Comment **exactly** **`I'm on it`** on that issue for GitHub Actions to automatically assign it to you.
-> Note: Automated assigning can take up to 5 minutes to take place.
+### Gini Caranya:
 
-### Contributing rules:
-1. Do **not** work on already assigned issues. Ask the assignee first. If more than 7 days have passed, comment and tag [@ILIYANGERMANOV](https://github.com/ILIYANGERMANOV) to unassign it.
-2. Fix your issue quickly or unassign yourself if you're unable to, in order to not block other contributors.
-3. You can only work on one issue at a time.
+1.  Cek daftar **[Isu Rupi Wallet](https://github.com/syarhida/rupi-wallet/issues)**.
+2.  Pilih isu yang kamu ngerti dan pengen kerjain.
 
+> Nggak nemu yang pas? **[Bikin aja isu baru](https://github.com/syarhida/rupi-wallet/issues/new/choose)**, siapa tahu idemu keren\!
 
-## 3. Create a feature branch in your fork
-Open your forked `Rupi-Wallet` folder in the terminal and create your issue's branch:
+3.  ⚠️ Biar isunya jadi milikmu, komen dengan **tepat** **`I'm on it`** di isu itu. Nanti GitHub Actions bakal otomatis nge-assign ke kamu.
+
+> Catatan: Sabar ya, proses assign otomatisnya bisa makan waktu sampai 5 menit.
+
+### Aturan Mainnya Nih:
+
+1.  **Jangan** kerjain isu yang udah ada yang punya (sudah di-assign). Tanya dulu ke orangnya. Kalau udah lebih dari 7 hari nggak ada kabar, baru deh komen dan tag (mention) [@SYARHIDA](https://github.com/syarhida) biar tugasnya bisa dilepas.
+2.  Kerjain isunya secepat mungkin. Kalau kira-kira nggak sanggup, lepas aja tugasnya (unassign dirimu) biar nggak ngalangin kontributor lain yang mungkin mau bantu.
+3.  Satu orang, satu isu aja ya biar fokus.
+
+## 3\. Langkah 3: Bikin Branch Fitur di Fork Kamu
+
+Buka folder `Rupi-Wallet` yang udah kamu fork di terminal, terus bikin branch buat isumu:
+
 ```
-git checkout -b fix-issue-{YOUR_ISSUE_NUMBER}
+git checkout -b fix-issue-{NOMOR_ISUMU}
 ```
-> Replace {YOUR_ISSUE_NUMBER} with the ID/number of your issue.
 
+> Ganti `{NOMOR_ISUMU}` dengan nomor ID isumu, ya.
 
-## 4. Time to work
-### ⚠️ Very important - read the [Developer Guidelines 🏗️](docs/Guidelines.md) before you begin.
+## 4\. Langkah 4: Saatnya Ngoding\!
 
-### Workflow:
-- Make commits.
-- Refactor your code.
-- Verify that your implementation works.
-- Build often and test that you haven't broken existing features.
+### ⚠️ PENTING BANGET NIH - baca dulu [Panduan Pengembang 🏗️](https://www.google.com/search?q=docs/Guidelines.md) sebelum mulai, ya\!
 
-### Tips:
-- Make sure that you don't break anything with your changes.
-- Keep it simple.
-- "Don't walk away from complexity, run!"
+### Begini enaknya kerja:
 
-### Ask Yourself:
-- Is that the simplest solution?
-- Can I do it with less code and changes?
-- Does it work in all cases?
+- Bikin commit secara berkala.
+- Rapihin kodemu (refactor) biar makin oke.
+- Cek lagi kerjaanmu, pastiin semuanya jalan sesuai harapan.
+- Sering-sering di-build dan dites ya, jangan sampai ngerusak fitur yang udah ada.
 
+### Tips Keren:
 
-## 5. Submit a pull request to `main` branch
-So far, you should have pushed your work to your feature branch and have tested
-that it works on a real Android device.
-The final step is to [open a pull request](https://github.com/syarhida/rupi-wallet/pulls) to the `main` branch of the
-official Rupi Wallet repo.
+- Pastiin perubahan yang kamu buat nggak bikin error di mana-mana.
+- Yang simpel aja, nggak usah ribet.
+- "Kalau ketemu yang rumit, jangan ditinggalin, tapi cari solusi paling simpel dan cepat\!"
 
-**[Submitting a PR - GitHub tutorial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**
+### Coba Tanya ke Diri Sendiri:
 
-### IMPORTANT:
-- Make sure the base repository is set to `syarhida/rupi-wallet` and its base is set to `main`.
-- Pull requests to other branches will be rejected.
-- Rupi Wallet doesn't have QA, so **you are the QA!** Please test your implementation carefully.
+- Udah paling simpel belum nih solusinya?
+- Bisa nggak ya dibikin dengan kode atau perubahan yang lebih sedikit?
+- Ini udah oke buat semua kondisi belum ya?
 
-### Questions?
-Ask them in [our private Telegram community](https://t.me/+ETavgioAvWg4NThk).
+## 5\. Langkah 5: Kirim Pull Request (PR) ke Branch `main`
+
+Nah, kalau kerjaanmu udah di-push ke branch fiturmu dan udah dites di HP Android beneran (dan semua aman terkendali),
+langkah terakhir, bikin deh [pull request](https://github.com/syarhida/rupi-wallet/pulls) ke branch `main` di repositori resmi Rupi Wallet.
+
+**[Cara Bikin PR - Tutorial GitHub Lengkapnya di Sini](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)**
+
+### INGAT YA:
+
+- Pastikan base repository-nya itu `syarhida/rupi-wallet` dan tujuannya ke branch `main`.
+- PR yang salah alamat (bukan ke `main`) bakal kami tolak, maaf ya.
+- Di Rupi Wallet nggak ada tim QA (Quality Assurance) khusus, jadi **kamulah QA-nya\!** 😉 Jadi, tes dulu hasil kerjamu baik-baik ya sebelum diajukan.
+
+### Masih Bingung atau Ada Pertanyaan?
+
+Yuk, gabung dan tanya-tanya di [komunitas Telegram pribadi kita](https://t.me/+ETavgioAvWg4NThk)\!
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+ETavgioAvWg4NThk)
