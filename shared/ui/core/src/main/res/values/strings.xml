@@ -280,8 +280,8 @@
     <string name="anonymous">Anonymous</string>
     <string name="export_to_csv">Export to CSV</string>
     <string name="left_to_spend">Left to spend</string>
-    <string name="budget_exceeded_by">Budget exceeded by</string>
-    <string name="buffer_exceeded_by">Buffer exceeded by</string>
+    <string name="budget_exceeded_by">Oops! Budget exceeded by</string>
+    <string name="buffer_exceeded_by">Oops! Buffer exceeded by</string>
     <string name="set_transaction_type">Choose transaction type</string>
     <string name="transfer">Transfer</string>
     <string name="selected_text">Selected</string>
