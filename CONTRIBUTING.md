@@ -38,7 +38,7 @@ Fork of the official Rupi Wallet repo by clicking on the badge: [![Fork Rupi Wal
 
 
 ## 3. Create a feature branch in your fork
-Open your forked `My-Wallet` folder in the terminal and create your issue's branch:
+Open your forked `Rupi-Wallet` folder in the terminal and create your issue's branch:
 ```
 git checkout -b fix-issue-{YOUR_ISSUE_NUMBER}
 ```
