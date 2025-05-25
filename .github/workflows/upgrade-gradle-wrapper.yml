@@ -26,8 +26,8 @@ jobs:
           distribution: 'adopt'
           java-version: '18'
 
-      - name: Upgrade Gradle Wrapper
-        run: ./gradlew upgradeGradleWrapperIvyWallet
-
       - name: Set execute permissions for gradlew
         run: chmod +x ./gradlew
+
+      - name: Upgrade Gradle Wrapper
+        run: ./gradlew upgradeGradleWrapperIvyWallet
