@@ -28,3 +28,6 @@ jobs:
 
       - name: Upgrade Gradle Wrapper
         run: ./gradlew upgradeGradleWrapperIvyWallet
+
+      - name: Set execute permissions for gradlew
+        run: chmod +x ./gradlew

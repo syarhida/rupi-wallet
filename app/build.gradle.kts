@@ -13,7 +13,7 @@ plugins {
 
 android {
     namespace = "kg.ivy.wallet"
-    compileSdk = libs.versions.compile.sdk.get().toInt()
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "kg.ivy.wallet"
