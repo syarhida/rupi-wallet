@@ -27,7 +27,7 @@ jvm-target = "17"
 detekt = "1.23.8" # https://detekt.dev/docs/gettingstarted/gradle/
 
 [libraries]
-android-gradle-plugin = { module = "com.android.tools.build:gradle", version = "8.10.0" }
+android-gradle-plugin = { module = "com.android.tools.build:gradle", version = "8.10.1" }
 
 # Kotlin
 kotlin-gradle-plugin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
@@ -129,7 +129,7 @@ timber = { module = "com.jakewharton.timber:timber", version = "5.0.1" }
 
 # Legacy
 keval = { module = "com.notkamui.libs:keval", version = "1.1.1" }
-opencsv-csv = { module = "com.opencsv:opencsv", version = "5.11" }
+opencsv-csv = { module = "com.opencsv:opencsv", version = "5.11.1" }
 opencsv-apache-commons = { module = "org.apache.commons:commons-lang3", version = "3.17.0" }
 
 # Linters
