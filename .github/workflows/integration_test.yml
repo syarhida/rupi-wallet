@@ -16,7 +16,7 @@ jobs:
       - name: Setup Java SDK
         uses: actions/setup-java@v4
         with:
-          distribution: 'adopt'
+          distribution: 'temurin'
           java-version: '18'
 
       - name: Gradle cache
